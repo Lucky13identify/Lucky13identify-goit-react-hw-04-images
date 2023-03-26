@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Lucky13identify-goit-react-hw-04-images/static/css/main.e1bc26f6.css",
-    "main.js": "/Lucky13identify-goit-react-hw-04-images/static/js/main.af697261.js",
+    "main.js": "/Lucky13identify-goit-react-hw-04-images/static/js/main.b474df21.js",
     "index.html": "/Lucky13identify-goit-react-hw-04-images/index.html",
     "main.e1bc26f6.css.map": "/Lucky13identify-goit-react-hw-04-images/static/css/main.e1bc26f6.css.map",
-    "main.af697261.js.map": "/Lucky13identify-goit-react-hw-04-images/static/js/main.af697261.js.map"
+    "main.b474df21.js.map": "/Lucky13identify-goit-react-hw-04-images/static/js/main.b474df21.js.map"
   },
   "entrypoints": [
     "static/css/main.e1bc26f6.css",
-    "static/js/main.af697261.js"
+    "static/js/main.b474df21.js"
   ]
 }
